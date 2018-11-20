@@ -20,7 +20,9 @@ an ES6 widget-less browser framework
 
 ## history
 
-+ 1.0.0 -- 20 Aug 2018
++ 1.1.0 -- 20 nov 2018
+    + added electron compatibility
++ 1.0.0 -- 20 aug 2018
     + added time module
 * 0.5.0 -- 22 jul 2018
     + improved math module
@@ -37,7 +39,7 @@ an ES6 widget-less browser framework
 * 0.1.0 -- 27 may 2018
     + started coding
 
-## License
+## license (mit)
 
 bald
 Copyright (c) 2018 Javier Santo Domingo (j-a-s-d@coderesearchlabs.com).

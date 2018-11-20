@@ -23,6 +23,10 @@
         }).catch((e) => { c.error(e); c.error("Could not load " + f); });
     }
     l('framework/bald.core.js', 'bald framework', ['bald'], function () {
-        l('bald.app.js', 'bald application', ['bald', 'app']);
+        l('bald.app.js', 'bald application', ['bald', 'app'], function () {
+            if (w.module) {
+                module = w.module;
+            }
+        });
     });
 }(window, console, SystemJS);

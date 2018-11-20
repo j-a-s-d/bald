@@ -1,0 +1,9 @@
+{
+  "name": "bald",
+  "version": "1.0.0",
+  "main": "bald.main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT"
+}

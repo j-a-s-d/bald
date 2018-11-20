@@ -8,7 +8,7 @@ import utils from './bald.utils.js';
 
 export default {
 	get VERSION () {
-		return "1.0.0";
+		return "1.1.0";
 	},
 	run: function () {
 		//
